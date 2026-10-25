@@ -2,7 +2,7 @@
 
 CogniDeck is a web-based flashcard application that helps users create, manage, and study flashcards for efficient learning and revision. The project is built using HTML, CSS, and JavaScript, and stores flashcards locally in the browser using localStorage.
 
-<img src="assets/homepage.png" alt="Flashcard Application Homepage" width="100%"/>
+
 
 ## Features
 
